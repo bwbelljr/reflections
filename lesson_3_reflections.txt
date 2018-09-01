@@ -9,3 +9,11 @@ I think this allows me to sync files on my local machine when I am ready. For ex
 Describe the differences between forks, clones and branches. When would you use one instead of another?
 
 Forks allow me to clone a repo from GitHub to my own GitHub account. It is like a "clone" of repos but on GitHub. Clone allows me to get a copy of a repo, whether on my local machine or from a remote repository to my local machine. Branches allow me to create a new path in my commit history within a repo. I would use forks to start my own repos from GitHub public repos. I would use clones to pull repos to a local machine. And I would use branches to experiment with new features of a project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This allows me to be in sync with remote repository. It makes it easier to collaborate with others or across machines.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+One alternative would be Subversion or some other version control system as well as another online collaboration tool for that alternative version control system. However, since Git and GitHub are so ubiquitous, this would limit collaboration with many other developers.
