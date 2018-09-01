@@ -5,3 +5,7 @@ I would like to use a remote repository when I use multiple computers and/or wor
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 I think this allows me to sync files on my local machine when I am ready. For example, I might make changes to specific files. Automatically pulling changes to my machine might introduce unexpected merging issues.
+
+Describe the differences between forks, clones and branches. When would you use one instead of another?
+
+Forks allow me to clone a repo from GitHub to my own GitHub account. It is like a "clone" of repos but on GitHub. Clone allows me to get a copy of a repo, whether on my local machine or from a remote repository to my local machine. Branches allow me to create a new path in my commit history within a repo. I would use forks to start my own repos from GitHub public repos. I would use clones to pull repos to a local machine. And I would use branches to experiment with new features of a project.
