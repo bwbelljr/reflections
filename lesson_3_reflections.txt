@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+I would like to use a remote repository when I use multiple computers and/or work with others to contribute to a git repository. A remote repository makes it possible to keep the commit history in sync across machines and collaborators.
